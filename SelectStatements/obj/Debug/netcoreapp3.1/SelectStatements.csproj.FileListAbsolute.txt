@@ -1,0 +1,13 @@
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\SelectStatements\SelectStatements\bin\Debug\netcoreapp3.1\SelectStatements.exe
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\SelectStatements\SelectStatements\bin\Debug\netcoreapp3.1\SelectStatements.deps.json
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\SelectStatements\SelectStatements\bin\Debug\netcoreapp3.1\SelectStatements.runtimeconfig.json
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\SelectStatements\SelectStatements\bin\Debug\netcoreapp3.1\SelectStatements.runtimeconfig.dev.json
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\SelectStatements\SelectStatements\bin\Debug\netcoreapp3.1\SelectStatements.dll
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\SelectStatements\SelectStatements\bin\Debug\netcoreapp3.1\SelectStatements.pdb
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\SelectStatements\SelectStatements\obj\Debug\netcoreapp3.1\SelectStatements.csproj.AssemblyReference.cache
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\SelectStatements\SelectStatements\obj\Debug\netcoreapp3.1\SelectStatements.AssemblyInfoInputs.cache
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\SelectStatements\SelectStatements\obj\Debug\netcoreapp3.1\SelectStatements.AssemblyInfo.cs
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\SelectStatements\SelectStatements\obj\Debug\netcoreapp3.1\SelectStatements.csproj.CoreCompileInputs.cache
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\SelectStatements\SelectStatements\obj\Debug\netcoreapp3.1\SelectStatements.dll
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\SelectStatements\SelectStatements\obj\Debug\netcoreapp3.1\SelectStatements.pdb
+C:\Users\Mr. Lee\Git Repositories\TrueCoders\repos\SelectStatements\SelectStatements\obj\Debug\netcoreapp3.1\SelectStatements.genruntimeconfig.cache
